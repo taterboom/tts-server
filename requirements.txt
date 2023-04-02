@@ -1,2 +1,3 @@
 azure-cognitiveservices-speech==1.26.0
 Flask==2.2.3
+openai==0.27.2
