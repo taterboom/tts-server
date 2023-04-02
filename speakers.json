@@ -1,0 +1,43 @@
+[
+  { "id": "zh-CN-XiaomengNeural", "t": "Female", "r": "zh-CN", "n": "小梦" },
+  { "id": "zh-CN-XiaomoNeural", "t": "Female", "r": "zh-CN", "n": "小默" },
+  { "id": "zh-CN-XiaoqiuNeural", "t": "Female", "r": "zh-CN", "n": "小秋" },
+  { "id": "zh-CN-XiaoruiNeural", "t": "Female", "r": "zh-CN", "n": "小蕊" },
+  { "id": "zh-CN-XiaoshuangNeural", "t": "Female, Child", "r": "zh-CN", "n": "小霜" },
+  { "id": "zh-CN-XiaoxiaoNeural", "t": "Female", "r": "zh-CN", "n": "小晓" },
+  { "id": "zh-CN-XiaoxuanNeural", "t": "Female", "r": "zh-CN", "n": "小轩" },
+  { "id": "zh-CN-XiaoyanNeural", "t": "Female", "r": "zh-CN", "n": "小燕" },
+  { "id": "zh-CN-XiaoyiNeural", "t": "Female", "r": "zh-CN", "n": "小易" },
+  { "id": "zh-CN-XiaoyouNeural", "t": "Female, Child", "r": "zh-CN", "n": "小优" },
+  { "id": "zh-CN-XiaozhenNeural", "t": "Female", "r": "zh-CN", "n": "小珍" },
+  { "id": "zh-CN-YunfengNeural", "t": "Male", "r": "zh-CN", "n": "云峰" },
+  { "id": "zh-CN-YunhaoNeural", "t": "Male", "r": "zh-CN", "n": "云豪" },
+  { "id": "zh-CN-YunjianNeural", "t": "Male", "r": "zh-CN", "n": "云剑" },
+  { "id": "zh-CN-YunxiaNeural", "t": "Male", "r": "zh-CN", "n": "云霞" },
+  { "id": "zh-CN-YunxiNeural", "t": "Male", "r": "zh-CN", "n": "云熙" },
+  { "id": "zh-CN-YunyangNeural", "t": "Male", "r": "zh-CN", "n": "云洋" },
+  { "id": "zh-CN-YunyeNeural", "t": "Male", "r": "zh-CN", "n": "云野" },
+  { "id": "zh-CN-YunzeNeural", "t": "Male", "r": "zh-CN", "n": "云泽" },
+
+  { "id": "wuu-CN-XiaotongNeural", "t": "Female", "r": "zh-CN", "n": "小桐" },
+  { "id": "wuu-CN-YunzheNeural", "t": "Male", "r": "zh-CN", "n": "云哲" },
+
+  { "id": "yue-CN-XiaoMinNeural", "t": "Female", "r": "zh-CN", "n": "小敏" },
+  { "id": "yue-CN-YunSongNeural", "t": "Male", "r": "zh-CN", "n": "云松" },
+
+  { "id": "zh-CN-henan-YundengNeural", "t": "Male", "r": "zh-CN", "n": "云灯" },
+  { "id": "zh-CN-liaoning-XiaobeiNeural", "t": "Female", "r": "zh-CN", "n": "小蓓" },
+
+  { "id": "zh-CN-shaanxi-XiaoniNeural", "t": "Female", "r": "zh-CN", "n": "小妮" },
+  { "id": "zh-CN-shandong-YunxiangNeural", "t": "Male", "r": "zh-CN", "n": "云翔" },
+
+  { "id": "zh-CN-sichuan-YunxiNeural", "t": "Male", "r": "zh-CN", "n": "云熙" },
+
+  { "id": "zh-HK-HiuGaaiNeural", "t": "Female", "r": "zh-CN", "n": "曉佳" },
+  { "id": "zh-HK-HiuMaanNeural", "t": "Female", "r": "zh-CN", "n": "曉敏" },
+  { "id": "zh-HK-WanLungNeural", "t": "Male", "r": "zh-CN", "n": "文龍" },
+
+  { "id": "zh-TW-HsiaoChenNeural", "t": "Female", "r": "zh-CN", "n": "小真" },
+  { "id": "zh-TW-HsiaoYuNeural", "t": "Female", "r": "zh-CN", "n": "小雨" },
+  { "id": "zh-TW-YunJheNeural", "t": "Male", "r": "zh-CN", "n": "雲哲" }
+]
